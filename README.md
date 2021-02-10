@@ -7,15 +7,16 @@ I think my GitHub does the talking for me 😅 but my general aim is to learn al
 
 Please feel free to check out some of my repositories and check out some of my live websites. 
 Stay tuned for more deployed applications as I work through this pot of ideas I have cooking.
-Here is some of my deployed applications:
+
+My ReadME's contain a demo and also the live website if applicable.
 
 Finance-Fix: https://github.com/tjjay17/Finance-Fix-Revamped
 
-Simon Game: https://tjjay17.github.io/The-Simon-Game/
+Simon Game: https://github.com/tjjay17/The-Simon-Game
 
-Covid Charts: www.comparecases.me
+Covid Charts: https://github.com/tjjay17/CovidCharts
 
-Note taker: https://vigorous-wescoff-72a15f.netlify.app/
+Note taker: https://github.com/tjjay17/NoteKeeper
 
 Material-UI Playaround: http://myeventguestlist.s3-website.ca-central-1.amazonaws.com/
 
