@@ -16,9 +16,14 @@ Simon Game: https://github.com/tjjay17/The-Simon-Game
 
 Covid Charts: https://github.com/tjjay17/CovidCharts
 
+Java Bank: https://github.com/tjjay17/BankSimulation
+
+Python Covid Texter: https://github.com/tjjay17/Covid-Texter
+
 Note taker: https://github.com/tjjay17/NoteKeeper
 
 Material-UI Playaround: http://myeventguestlist.s3-website.ca-central-1.amazonaws.com/
+
 
 
 I am currently working on my biggest application yet - finance fix. Check it out in my repositories and stay tuned for it's deployment.
