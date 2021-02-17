@@ -16,11 +16,11 @@ Simon Game: https://github.com/tjjay17/The-Simon-Game
 
 Covid Charts: https://github.com/tjjay17/CovidCharts
 
+Note taker: https://github.com/tjjay17/NoteKeeper
+
 Java Bank: https://github.com/tjjay17/BankSimulation
 
 Python Covid Texter: https://github.com/tjjay17/Covid-Texter
-
-Note taker: https://github.com/tjjay17/NoteKeeper
 
 Material-UI Playaround: http://myeventguestlist.s3-website.ca-central-1.amazonaws.com/
 
