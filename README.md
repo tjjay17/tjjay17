@@ -12,19 +12,19 @@ My ReadME's contain a demo and also the live website if applicable.
 
 
 Food-Playlists:http://foodtracker-env.eba-9cyppfa4.us-east-1.elasticbeanstalk.com/  
-(private repository due to CI/CD configuration but will be made public soon!)
+(private repository due to CI/CD configuration but will be made public soon!) - Full Stack React/Spring Boot Application
 
-Finance-Fix: https://github.com/tjjay17/Finance-Fix-Revamped
+Finance-Fix: https://github.com/tjjay17/Finance-Fix-Revamped - Full Stack React/Node.js (Express.js) Application
 
-Simon Game: https://github.com/tjjay17/The-Simon-Game
+Simon Game: https://github.com/tjjay17/The-Simon-Game - HTML/CSS/JavaScript browser game
 
-Covid Charts: https://github.com/tjjay17/CovidCharts
+Covid Charts: https://github.com/tjjay17/CovidCharts - React Application that uses Chart.js and the Covid19 API
 
-Note taker: https://github.com/tjjay17/NoteKeeper
+Note taker: https://github.com/tjjay17/NoteKeeper - React/Node.js (Express.js)/MongoDB Application
 
-Java Bank: https://github.com/tjjay17/BankSimulation
+Java Bank: https://github.com/tjjay17/BankSimulation - Object Oriented Java Program
 
-Python Covid Texter: https://github.com/tjjay17/Covid-Texter
+Python Covid Texter: https://github.com/tjjay17/Covid-Texter - Python Automation Project to Text Ontario Cases
 
-Material-UI Playaround: http://myeventguestlist.s3-website.ca-central-1.amazonaws.com/
+Material-UI Playaround: http://myeventguestlist.s3-website.ca-central-1.amazonaws.com/ - Just trying out Material-UI 😅
 
