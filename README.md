@@ -28,6 +28,3 @@ Python Covid Texter: https://github.com/tjjay17/Covid-Texter
 
 Material-UI Playaround: http://myeventguestlist.s3-website.ca-central-1.amazonaws.com/
 
-
-
-I am currently working on my biggest application yet - finance fix. Check it out in my repositories and stay tuned for it's deployment.
