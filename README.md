@@ -10,10 +10,6 @@ Stay tuned for more deployed applications as I work through this pot of ideas I 
 
 My ReadME's contain a demo and also the live website if applicable.
 
-
-Food-Playlists:http://foodtracker-env.eba-9cyppfa4.us-east-1.elasticbeanstalk.com/  
-(private repository due to CI/CD configuration but will be made public soon!) - Full Stack React/Spring Boot Application
-
 Finance-Fix: https://github.com/tjjay17/Finance-Fix-Revamped - Full Stack React/Node.js (Express.js) Application
 
 Simon Game: https://github.com/tjjay17/The-Simon-Game - HTML/CSS/JavaScript browser game
@@ -26,5 +22,4 @@ Java Bank: https://github.com/tjjay17/BankSimulation - Object Oriented Java Prog
 
 Python Covid Texter: https://github.com/tjjay17/Covid-Texter - Python Automation Project to Text Ontario Cases
 
-Material-UI Playaround: http://myeventguestlist.s3-website.ca-central-1.amazonaws.com/ - Just trying out Material-UI 😅
 
